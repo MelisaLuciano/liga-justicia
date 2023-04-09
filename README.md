@@ -4,4 +4,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Esta genial
 
 ## Notas
-Pueden hacer lo que quieran...
+Este esta editado por Melisa
+
+### Melisa >u<

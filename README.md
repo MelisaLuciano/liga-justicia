@@ -3,7 +3,6 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 Esta genial
 
-## Notas
-Este esta editado por Melisa
+## Estos cambios son nuevos
 
 ### Melisa >u<
